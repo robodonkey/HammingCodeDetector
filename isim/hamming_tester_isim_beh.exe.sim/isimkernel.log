@@ -1,0 +1,29 @@
+Command line:
+   hamming_tester_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  29614
+
+Mon Mar 07 23:47:22 2011
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 500.646 Meg
+
+ Total Signals          : 19
+ Total Nets             : 58
+ Total Signal Drivers   : 13
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 17
+ Total Traceable Variables  : 31
+ Total Scalar Nets and Variables : 245
+Total Line Count : 58
+
+ Total Simulation Time: 0.0468 sec
+
+ Current Memory Usage: 500.646 Meg
+
+Mon Mar 07 23:47:56 2011
+
